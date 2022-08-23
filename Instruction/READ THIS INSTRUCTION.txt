@@ -1,0 +1,10 @@
+This is local REST API Conduit project. 
+For run collection, you need to fit the next steps:
+
+1. Clone the reposetory on your local machine
+2. Install and run Docker
+3. Open the clone reposetory with Visual code
+4. Input and done this commands into terminal 'docker-compose build' and 'docker-compose up'
+5. Import file Local_Collection_REST_API.json and Local_Environment_REST_API.json in Postman
+6. Run Postman Local Conduit Project collection
+       

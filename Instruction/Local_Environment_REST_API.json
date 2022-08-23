@@ -1,0 +1,279 @@
+{
+	"id": "f4e29369-b9f7-4b29-9e83-65a3b83ad3a1",
+	"name": "Postman test project local",
+	"values": [
+		{
+			"key": "url",
+			"value": "http://localhost:1667/",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "",
+			"value": "",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "localEmail",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "localUser",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "registerNew",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "deleteArticle",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "localPassword",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "registration",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "localUserId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "localImage",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "articleCreate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "longTitle",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "longWhatsArticle",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "longDescription",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "longBody",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "localId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "localSlug",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "longText",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "articleId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "commentCreate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "commentId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "like",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Test",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "longTextRegistration",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "invalidEmail",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "SpecialSymbols",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ShortPassword",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Cyrillic",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "passwordLowercase",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "passwordNotNumber",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "passwordUppercase",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "slugConduit",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "deleteComment",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "articleBody",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "articleDescription",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "articleTitle",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "articleTags",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "articleAuthorId",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "AuthlId",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "articleAuthorId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "passwordConduit",
+			"value": "Pa$$w0rd!\n",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "passwordConduitLocal",
+			"value": "Pa$$w0rd!",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "passwordConduit",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-08-22T17:43:59.069Z",
+	"_postman_exported_using": "Postman/9.29.2"
+}
