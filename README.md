@@ -1,4 +1,4 @@
-# ![PLEASE OPEN FOLDER 'INSTRUCTION' FIRST AND READ 'READ THIS INSTRUCTION.TXT']
+# [PLEASE OPEN FOLDER 'INSTRUCTION' FIRST AND READ 'READ THIS INSTRUCTION.TXT']
 
 This real world example application uses Deno, Drash, Vue, Webpack, PostgreSQL,
 and docker-compose.
