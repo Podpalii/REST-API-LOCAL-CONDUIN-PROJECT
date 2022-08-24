@@ -1,5 +1,4 @@
 # ![Drash Example App](logo.png)
-PLEASE OPEN FOLDER 'INSTRUCTION' FIRST AND READ 'READ THIS INSTRUCTION.txt'
 
 This real world example application uses Deno, Drash, Vue, Webpack, PostgreSQL,
 and docker-compose.
